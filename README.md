@@ -36,17 +36,17 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 
 
 
-a) 1, 3, 5, 7, ___
+a) 1, 3, 5, 7, 9 (numeros impares)
 
-b) 2, 4, 8, 16, 32, 64, ____
+b) 2, 4, 8, 16, 32, 64,128 (O proximo numero e igual o anterior vezes 2 )
 
-c) 0, 1, 4, 9, 16, 25, 36, ____
+c) 0, 1, 4, 9, 16, 25, 36, 49 (se 16 - 9 (+ 2 + 16) = 25 ou 25 - 16 (+ 2 + 25) = 36 , então , 36 - 25(+ 2 + 36) = 49)
 
-d) 4, 16, 36, 64, ____
+d) 4, 16, 36, 64, 100 (a seguencia é igual dos quadrados perfeitos pulando os numeros 1, 9, 25, 49, 81 )
 
-e) 1, 1, 2, 3, 5, 8, ____
+e) 1, 1, 2, 3, 5, 8, 13 (soma do atual com o anterior)
 
-f) 2,10, 12, 16, 17, 18, 19, ____
+f) 2,10, 12, 16, 17, 18, 19, 200 (todos numeros que começam com a letra 'D')
 
 
 
@@ -64,7 +64,7 @@ c) Explique como chegou no resultado.
 
  
 
-5) Escreva um programa que inverta os caracteres de um string.
+1) Escreva um programa que inverta os caracteres de um string.
 
 
 
